@@ -1,6 +1,6 @@
 # Del cajón al circuito
 
-_try it out for yourself: https://iviherz.github.io/del-cajon-al-circuito/_
+_try it out for yourself (in spanish): https://iviherz.github.io/del-cajon-al-circuito/_
 
 **Interactive decision tool for responsible e-waste choices: repair, give a device a second life, or use a verified e-waste channel.**
 
