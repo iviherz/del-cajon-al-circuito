@@ -1,5 +1,7 @@
 # Del cajón al circuito
 
+_try it out for yourself: https://iviherz.github.io/del-cajon-al-circuito/_
+
 **Interactive decision tool for responsible e-waste choices: repair, give a device a second life, or use a verified e-waste channel.**
 
 Developed by **Ivana Herz** as an individual project within **Challenge ODS 2026 – Goethe-Institut Buenos Aires**, linked to **SDG 12: Responsible Consumption and Production**.
